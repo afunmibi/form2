@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    width: 100%;
+    margin-left: 400px;
+    margin-top: 50px;
+
+}
+fieldset{
+    background-color: coral;
+    width: 300px;
+    margin-right: 400px;
+}
